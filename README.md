@@ -30,3 +30,6 @@ El programa debe contener como mínimo:
 guardarlo en un archivo.
 - Generar un bucle que te diga cuantas veces tenes que jugar con el mismo cartón
 para llegar a ganar con 8 aciertos
+
+
+NOTA: Se desarrolló con Code::Blocks IDE.
