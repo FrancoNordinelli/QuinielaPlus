@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1663172041 source:c:\users\usuario\desktop\ayed2022\quinielaplus\jugador.cpp
+	<cstddef>
+	<iostream>
+	<cstdlib>
+	"jugador.h"
+
+1663247729 source:c:\users\usuario\desktop\ayed2022\quinielaplus\main.cpp
+	<iostream>
+	"jugador.h"
+	"carton.h"
+	"jugada.h"
+	<time.h>
+
+1663248183 source:c:\users\usuario\desktop\ayed2022\quinielaplus\carton.cpp
+	<cstddef>
+	<iostream>
+	<cstdlib>
+	"carton.h"
+	"jugador.h"
+
+1663248202 c:\users\usuario\desktop\ayed2022\quinielaplus\carton.h
+
+1663171494 c:\users\usuario\desktop\ayed2022\quinielaplus\jugador.h
+
+1663246226 c:\users\usuario\desktop\ayed2022\quinielaplus\jugada.h
+	"carton.h"
+
+1663249359 source:c:\users\usuario\desktop\ayed2022\quinielaplus\jugada.cpp
+	<cstddef>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"jugada.h"
+	"carton.h"
+
